@@ -1,0 +1,54 @@
+body
+		{
+			background-color: #c9df8a;
+		}
+
+h1
+		{
+			background-color: #bae1ff;
+			font-family: 'Sacramento', cursive;
+			font-size: 70px;
+			color: black;
+			border: solid;
+			border-color: #bae1ff;
+			border-radius: 50px;
+			padding: 15px;
+		}
+
+h2
+
+		{
+			background-color: #feffa3;
+			font-family: 'Sacramento', cursive;
+			font-size: 30px;
+			text-align: justify;
+			color: #232b2b;
+			padding: 15px;
+		}
+
+p       
+		{
+			background-color: #eecbff;
+			font-size: 30px;
+			text-align: center;
+			color: #232b2b;
+			font-family: 'Sacramento', cursive;
+			padding: 15px;
+		}
+
+a:link, a:visited
+		{
+			background-color: #ffffba;
+			color: black;
+			text-align: center;
+			text-decoration: none;
+			display: inline-block;
+			border-radius: 50px;
+			padding: 15px;
+		}
+
+a:hover, a:active
+		{
+			background-color: #bae1ff;
+			color: black;
+		}
